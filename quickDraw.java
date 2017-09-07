@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 import java.awt.Toolkit;
 import java.awt.event.AWTEventListener;
 
-public class ShapeTest extends JFrame{
+public class quickDraw extends JFrame{
    public ShapeTest(){
       setSize(1600,1600);
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
