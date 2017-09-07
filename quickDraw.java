@@ -9,7 +9,7 @@ import java.awt.event.AWTEventListener;
 
 public class quickDraw extends JFrame{
    public ShapeTest(){
-      setSize(1600,1600);
+      setSize(2600,2600);
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       setLocationRelativeTo(null);
       setVisible(true);
