@@ -9,7 +9,7 @@ import java.awt.event.AWTEventListener;
 
 public class ShapeTest extends JFrame{
    public ShapeTest(){
-      setSize(2400,2400);
+      setSize(1600,1600);
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       setLocationRelativeTo(null);
       setVisible(true);
