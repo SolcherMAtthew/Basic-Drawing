@@ -8,7 +8,7 @@ import java.awt.Toolkit;
 import java.awt.event.AWTEventListener;
 
 public class quickDraw extends JFrame{
-   public ShapeTest(){
+   public quickDraw(){
       setSize(2600,2600);
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       setLocationRelativeTo(null);
@@ -16,7 +16,7 @@ public class quickDraw extends JFrame{
    }
 
    public static void main(String a[]){
-      new ShapeTest();
+      new quickDraw();
    }
 
    public void paint(Graphics g){
