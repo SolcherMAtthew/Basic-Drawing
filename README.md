@@ -1,3 +1,6 @@
 # VERY Basic-Drawing
 HowYallDoingInCamelCase<br>
-<b>Bold</b> and <i>Brash</i>
+<ul>
+  <l1><b>Bold</b></l1>
+  <l2><i>Brash</i></l2>
+  <l3>Belongs in the trash</l3>
