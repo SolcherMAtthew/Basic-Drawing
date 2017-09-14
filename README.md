@@ -1,5 +1,5 @@
 # VERY Basic-Drawing
-HowYallDoingInCamelCase<br>
+howYallDoingInCamelCase<br>
 
   >1.<b>Bold</b><br>
   >2.<i>Brash</i><br>
